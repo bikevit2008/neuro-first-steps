@@ -3,6 +3,7 @@
 KNN(по соседям):
 1. 96.88% дефолт
 2. 96.65% knn_classifier = KNeighborsClassifier(n_jobs=-1, n_neighbors=10)
+3. 97.05%  knn_classifier = KNeighborsClassifier(n_jobs=-1, n_neighbors=3)
 
 
 Нейросети:
